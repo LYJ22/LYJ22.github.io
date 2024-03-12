@@ -1,7 +1,7 @@
 # Setup
 title: 유정의 저장소
-description: A simple, beautiful, and powerful Jekyll theme for blogs
-url: https://vszhub.github.io
+description: 이것저것 기록합니다
+url: https://LYJ22.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -30,14 +30,14 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: vszhub
+  username: LYJ
   card: summary
 logo: logo.png
 social:
   name: Songzi Vong
   links:
     - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/LYJ22
 google_site_verification: xxxxx
 lang: en
 
@@ -55,6 +55,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: Lee Yu Jeong
+  url: https://github.com/LYJ22
+  email: pippi478@gmail.com

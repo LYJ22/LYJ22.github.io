@@ -34,7 +34,7 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Lee Yu Jeong
+  name: YuJeong
   links:
     - https://github.com/LYJ22
 google_site_verification: xxxxx
@@ -54,6 +54,6 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Lee Yu Jeong
+  name: YuJeong
   url: https://github.com/LYJ22
   email: pippi478@gmail.com

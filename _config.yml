@@ -1,11 +1,11 @@
 # Setup
-title: 유정의 저장소
+title: YJ의 저장소
 description: 이것저것 기록합니다
 url: https://LYJ22.github.io
-avatar: /avatar.jpeg
-paginate: 5
+avatar: /avatar.jpg
+paginate: 10
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:

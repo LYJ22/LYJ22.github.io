@@ -10,4 +10,4 @@ title: About
 어느 날은 코딩 테스트 문제, 어느 날은 기술 면접 대비용 공부 내용, 또 어느 날은 자격증 공부
 기록하는 습관을 들이고 싶기 때문에 이것저것 올릴 계획입니다. 우선은 github.io 블로그 생성과정을 기록하는 것으로 시작!
 
-혹여나 미래에 나처럼 github 블로그를 만들고 싶어하는 사람들을 위한 [링크](https://lyj22.github.io/2024/03/18/%EA%B9%83%ED%97%99-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95(Jekyll-%ED%85%8C%EB%A7%88-%EC%A0%81%EC%9A%A9)/)
+혹여나 미래에 나처럼 github 블로그를 만들고 싶어하는 사람들을 위한 [링크](https://lyj22.github.io/2024/03/18/how-to-make-github-blog(Jekyll-theme)/)
